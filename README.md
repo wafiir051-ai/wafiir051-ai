@@ -16,6 +16,10 @@ Saya membuat web app, aplikasi Flutter, dan alat IoT berbasis ESP32. Beberapa su
 ![ESP32](https://img.shields.io/badge/ESP32-081410?style=flat-square&logo=espressif&logoColor=3ED8A8)
 ![Vercel](https://img.shields.io/badge/Vercel-081410?style=flat-square&logo=vercel&logoColor=3ED8A8)
 
+## Aktivitas
+
+<img src="./profile-3d-contrib/profile-3d.svg" alt="Grafik kontribusi 3D wafiir051-ai" width="100%">
+
 ## Proyek pilihan
 
 | Proyek | Jenis | Stack |
