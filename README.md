@@ -1,4 +1,5 @@
-# Waffir Hasan Alkamiil
+<img src="./profile-3d-contrib/banner-3d.svg" alt="Waffir Hasan Alkamiil, Full-Stack & IoT Developer" width="100%">
+
 
 Full-Stack & IoT Developer dari Subang, Jawa Barat. Pelajar SMKIT Assyifa Boarding School, Ketua IT Club.
 
@@ -22,15 +23,20 @@ Saya membuat web app, aplikasi Flutter, dan alat IoT berbasis ESP32. Beberapa su
 
 ## Proyek pilihan
 
-| Proyek | Jenis | Stack |
-|---|---|---|
-| [Puspita Indah](https://www.puspitaindah.com/) | Website bisnis untuk klien | HTML, CSS, JavaScript |
-| [EduSpace](https://github.com/wafiir051-ai/eduspace) | LMS untuk SMKIT Assyifa, pernah dilombakan di TechnoFest | React, Supabase, Three.js |
-| [SIMAQ](https://simaq.vercel.app/) | Rapor tahfidz otomatis | React, Vite |
-| [CORVUS](https://officialcorvuscom.vercel.app/) | E-commerce streetwear | Next.js, Supabase, Tailwind |
-| [Batik Nusantara](https://batik-nusantara-01-72sh.vercel.app/Batik%20Nusantara.dc.html) | Edukasi budaya interaktif | Web 3D |
-| [Wali Santri](https://github.com/wafiir051-ai/wali-santri) | Aplikasi mobile untuk wali santri | Flutter, Supabase |
-| [Portofolio ini](https://github.com/wafiir051-ai/my-portfolio) | Situs portofolio dengan admin | React, Vite, Supabase |
+<table>
+  <tr>
+    <td width="33%"><a href="https://www.puspitaindah.com/"><img src="./profile-3d-contrib/card-1.svg" alt="Puspita Indah: website bisnis. HTML, CSS, JavaScript" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/wafiir051-ai/eduspace"><img src="./profile-3d-contrib/card-2.svg" alt="EduSpace: platform belajar. React, Supabase, Three.js" width="100%"></a></td>
+    <td width="33%"><a href="https://simaq.vercel.app/"><img src="./profile-3d-contrib/card-3.svg" alt="SIMAQ: aplikasi web. React, Vite" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://officialcorvuscom.vercel.app/"><img src="./profile-3d-contrib/card-4.svg" alt="CORVUS: e-commerce. Next.js, Supabase, Tailwind" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/wafiir051-ai/wali-santri"><img src="./profile-3d-contrib/card-5.svg" alt="Wali Santri: aplikasi mobile. Flutter, Supabase" width="100%"></a></td>
+    <td width="33%"><a href="https://my-portfolio-two-cyan-74.vercel.app/"><img src="./profile-3d-contrib/card-6.svg" alt="Portofolio: situs dan admin. React, Vite, Supabase" width="100%"></a></td>
+  </tr>
+</table>
+
+Juga: [Batik Nusantara](https://batik-nusantara-01-72sh.vercel.app/Batik%20Nusantara.dc.html), platform budaya batik interaktif dengan studio membatik 3D.
 
 ## Kontak
 
